@@ -4,15 +4,6 @@
 
 ---
 
-**📍 Location:** Rio de Janeiro - RJ, Brazil  
-**📞 Phone:** +55 61 98165 7050  
-**✉️ Email:** [viniciusgribas@gmail.com](mailto:viniciusgribas@gmail.com)  
-**🌐 Website:** [viniciusgribas.github.io](https://viniciusgribas.github.io/)  
-**🔗 LinkedIn:** [vinicius-guerra-e-ribas](https://linkedin.com/in/vinicius-guerra-e-ribas)  
-**🐙 GitHub:** [viniciusgribas](https://github.com/viniciusgribas)
-
----
-
 ## About Me
 
 Results-driven data engineer with a proven ability to design, develop, and implement robust data solutions. Expertise in software engineering, data science, and analytics enables me to translate complex business requirements into effective strategies and deliver impactful outcomes.
