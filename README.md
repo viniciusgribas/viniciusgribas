@@ -1,5 +1,5 @@
 # Vinicius Guerra e Ribas
-** Data Engineer | Data Science and Analytics | Python Developer **
+**Data Engineer | Data Science and Analytics | Python Developer**
 
 ---
 
